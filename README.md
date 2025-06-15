@@ -26,7 +26,7 @@ Game and Watch Color Scheme
 
 ## How to Install
 
-Just copy the klon folder into your ArkOS themes directory, then select it from the EmulationStation UI.
+Just copy the **klon** folder into your ArkOS themes directory (inside the /roms folder), then select it from the EmulationStation UI.
 
 ## License ⚖️
 
