@@ -17,3 +17,7 @@ Game and Watch Color Scheme
 ## Notes ✏️
 * Very minimalist and text-focused.
 * Still a work in progress! Feedback welcome.
+
+## License ⚖️
+
+Creative Commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
