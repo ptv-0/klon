@@ -26,7 +26,7 @@ Game and Watch Color Scheme
 
 Vectrex Minestorm Color Scheme
 
-![screenshot4](https://github.com/user-attachments/assets/8311ded0-0c8b-467d-8dff-504fb45e13fc)
+![screenshot4](https://github.com/user-attachments/assets/31281fee-0ef4-4d82-9ef3-859ef7e27688)
 
 ## How to Install
 
