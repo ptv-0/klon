@@ -24,9 +24,18 @@ Game and Watch Color Scheme
 
 ![screenshot3](https://github.com/user-attachments/assets/bedf799e-0edf-477c-93de-be50a5c61c8b)
 
+Vectrex Minestorm Color Scheme
+
+![screenshot4](https://github.com/user-attachments/assets/8311ded0-0c8b-467d-8dff-504fb45e13fc)
+
 ## How to Install
 
 Just copy the **klon** folder into your ArkOS themes directory (inside the /roms folder), then select it from the EmulationStation UI.
+
+## Changelog
+
+* New color scheme added: Minestorm (based on the iconic Vectrex game)
+* Bug fixes
 
 ## License ⚖️
 
