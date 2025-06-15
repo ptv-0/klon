@@ -35,7 +35,7 @@ Just copy the **klon** folder into your ArkOS themes directory (inside the /roms
 ## Changelog
 
 **2025-06-15**
-* New color scheme added: Minestorm (based on the iconic Vectrex game)
+* New color scheme added: Vectrex Minestorm (based on the iconic Vectrex game, Minestorm)
 * Bug fixes
 
 ## License ⚖️
