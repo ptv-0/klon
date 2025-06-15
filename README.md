@@ -7,7 +7,7 @@ Hi! This is my first **ArkOS theme**, and it’s called **Klon** for three reaso
 2. **I’m using an R36S clone** (which, of course, I bought without realizing it was a clone). It’s actually the only handheld of its kind I own.
 3. **It’s a little guitar-related easter egg** —“Klon” is the name of a legendary guitar pedal that I’ll probably never be able to afford.
 
-### Notes:
+It is also...
 * Very minimalist and text-focused.
 * Still a work in progress! Feedback welcome.
 
