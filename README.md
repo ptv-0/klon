@@ -1,4 +1,4 @@
-# klon-plus
+# klon
 ## ArkOS Theme 🎨
 
 Hi! This is my first **ArkOS theme**, and it’s called **Klon** for three reasons:
