@@ -12,13 +12,13 @@
         <menuactive>./_art/imgs/pong-menu-textinput-active.png</menuactive>
     </variables>
     <variables ifSubset="color-scheme:gb">
-        <bgs>9BBC0F</bgs>
-        <txts>0F380F</txts>
-        <fav>9BBC0F</fav>
-        <menubgs>A6C910</menubgs>
-        <menutxts>0F380F</menutxts>
-        <txtstransp>0F380F00</txtstransp>
-        <gamelistitems>0F380F80</gamelistitems>
+        <bgs>B4D912</bgs>
+        <txts>092009</txts>
+        <fav>B4D912</fav>
+        <menubgs>C0E813</menubgs>
+        <menutxts>092009</menutxts>
+        <txtstransp>09200900</txtstransp>
+        <gamelistitems>09200973</gamelistitems>
         <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
     </variables>
