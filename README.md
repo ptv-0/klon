@@ -18,7 +18,7 @@ Pong Color Scheme
 
 GB Color Scheme
 
-![screenshot2](https://github.com/user-attachments/assets/00e1ea74-d221-4615-8d1f-4dc6015a08eb)
+![screenshot2](https://github.com/user-attachments/assets/c9b45c78-159d-46ef-a8cc-d046f2b3e41a)
 
 Game and Watch Color Scheme
 
