@@ -1,0 +1,14 @@
+<theme>
+    <formatVersion>7</formatVersion>
+    <variables>
+        <bgs>9BBC0F</bgs>
+        <txts>0F380F</txts>
+        <fav>9BBC0F</fav>
+        <menubgs>A6C910</menubgs>
+        <menutxts>0F380F</menutxts>
+        <txtstransp>0F380F00</txtstransp>
+        <gamelistitems>0F380F80</gamelistitems>
+        <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
+    </variables>
+</theme>

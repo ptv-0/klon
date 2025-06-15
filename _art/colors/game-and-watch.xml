@@ -1,0 +1,14 @@
+<theme>
+    <formatVersion>7</formatVersion>
+    <variables>
+        <bgs>efeee8</bgs>
+        <txts>06160f</txts>
+        <fav>efeee8</fav>
+        <menubgs>f7f7f4</menubgs>
+        <menutxts>06160f</menutxts>        
+        <txtstransp>06160f00</txtstransp>
+        <gamelistitems>06160f66</gamelistitems>
+        <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>
+    </variables>
+</theme>

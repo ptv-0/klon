@@ -1,0 +1,36 @@
+<theme>
+   <formatVersion>7</formatVersion>
+    <variables ifSubset="color-scheme:pong">
+        <bgs>000000</bgs>
+        <txts>FCFCFC</txts>
+        <fav>FCFCFC</fav>
+        <menubgs>000000</menubgs>
+        <menutxts>FCFCFC</menutxts>
+        <txtstransp>FCFCFC00</txtstransp>
+        <gamelistitems>FCFCFCB0</gamelistitems>
+        <menuinactive>./_art/imgs/pong-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/pong-menu-textinput-active.png</menuactive>
+    </variables>
+    <variables ifSubset="color-scheme:gb">
+        <bgs>9BBC0F</bgs>
+        <txts>0F380F</txts>
+        <fav>9BBC0F</fav>
+        <menubgs>A6C910</menubgs>
+        <menutxts>0F380F</menutxts>
+        <txtstransp>0F380F00</txtstransp>
+        <gamelistitems>0F380F80</gamelistitems>
+        <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
+    </variables>
+    <variables ifSubset="color-scheme:game-and-watch">
+        <bgs>efeee8</bgs>
+        <txts>06160f</txts>
+        <fav>efeee8</fav>
+        <menubgs>f7f7f4</menubgs>
+        <menutxts>06160f</menutxts>        
+        <txtstransp>06160f00</txtstransp>
+        <gamelistitems>06160f66</gamelistitems>
+        <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>
+    </variables>
+ </theme>
