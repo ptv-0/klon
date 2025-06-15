@@ -26,4 +26,4 @@ Game and Watch Color Scheme
 
 ## License ⚖️
 
-Creative Commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
+Creative Commons Zero v1.0 Universal - [https://creativecommons.org/licenses/by-nc-sa/3.0/](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
