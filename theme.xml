@@ -13,11 +13,12 @@ Creator:        PTV
       <include name="gb" displayName="gb">./_art/colors/gb.xml</include>
       <include name="game-and-watch" displayName="game-and-watch">./_art/colors/game-and-watch.xml</include>
       <include name="vectrex-minestorm" displayName="vectrex-minestorm">./_art/colors/vectrex-minestorm.xml</include>
+      <include name="kirby" displayName="kirby">./_art/colors/kirby.xml</include>      
    </subset>
      <view name="screen">
       <batteryIndicator name="batteryIndicator">
      <color>${txts}</color>
-         <pos>0.0166666667 0.02</pos>
+         <pos>0.03 0.02</pos>
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <size>0.978125 0.0538461538</size>
       </batteryIndicator>
@@ -31,7 +32,7 @@ Creator:        PTV
      <logoSize>0.8 0.48</logoSize>
      <maxLogoCount>7</maxLogoCount>
      <pos>0 0.06</pos>
-     <logoPos>0.0166666667 0.2</logoPos>
+     <logoPos>0.03 0.2</logoPos>
      <logoAlignment>left</logoAlignment>
      <size>1 0.9</size>
      <logoScale>1.3</logoScale>
@@ -292,8 +293,8 @@ Creator:        PTV
          <secondaryColor>${gamelistitems}</secondaryColor>
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.032</fontSize>
-         <pos>0.0073333333 0.125</pos>
-         <size>0.52 0.74</size>
+         <pos>0.02 0.125</pos>
+         <size>0.5116398714 0.74</size>
          <alignment>left</alignment>
          <horizontalMargin>0.01</horizontalMargin>
          <origin>0 0</origin>
@@ -328,22 +329,22 @@ Creator:        PTV
 
      <image name="md_marquee">
          <origin>0.5 1</origin>
-         <pos>0.78421875 0.85125</pos>
-         <maxSize>0.3939526808 0.31</maxSize>
+         <pos>0.7764078063 0.85125</pos>
+         <maxSize>0.3814462465 0.31</maxSize>
          <zIndex>4</zIndex>
       </image>
 
      <image name="md_image">
          <origin>0.5 0</origin>
-         <pos>0.78421875 0.145</pos>
-         <maxSize>0.3939526808 0.53</maxSize>
+         <pos>0.7764078063 0.1470714286</pos>
+         <maxSize>0.3814462465 0.53</maxSize>
          <zIndex>2</zIndex>
       </image>
 	
     <video name="md_video">
          <origin>0.5 0</origin>
-         <pos>0.78421875 0.145</pos>
-         <maxSize>0.3939526808 0.53</maxSize>
+         <pos>0.7764078063 0.1470714286</pos>
+         <maxSize>0.3814462465 0.53</maxSize>
          <delay>0.7</delay>
          <zIndex>3</zIndex>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
@@ -351,14 +352,6 @@ Creator:        PTV
          <snapshotSource>image</snapshotSource>
 		 <effect>none</effect> 
     </video>
-	
-    <text name="md_description">
-         <pos>0.605 0.585</pos>
-         <size>0.347 0.183</size>
-         <color>${txts}</color>
-         <fontSize>0.025</fontSize>
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
-    </text>
     </view>
 
     <view name="basic">
@@ -366,8 +359,7 @@ Creator:        PTV
          <visible>false</visible>
     </text>
     <textlist name="gamelist">
-         <pos>0.0073333333 0.13</pos>
-         <size>0.98 0.74</size>
+         <size>0.96 0.74</size>
     </textlist>     
     </view>
   
@@ -411,7 +403,7 @@ Creator:        PTV
 	     <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <origin>1 0</origin>
-         <pos>0.9833333333 0.0114166667</pos>
+         <pos>0.97 0.0114166667</pos>
          <size>1 0.025</size>
     </text>
     </view>
