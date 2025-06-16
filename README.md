@@ -12,27 +12,23 @@ It's also...
 * Still a work in progress! Feedback welcome, especially if you have other 640x480 / 4:3 devices. It probably won’t work very well on other aspect ratios for now 😅
 
 ## Screenshots 📸
-Pong Color Scheme
-
-![screenshot](https://github.com/user-attachments/assets/87e798d8-c250-4c59-927c-d7eb66feedc0)
-
-GB Color Scheme
-
-![screenshot2](https://github.com/user-attachments/assets/c9b45c78-159d-46ef-a8cc-d046f2b3e41a)
-
-Game and Watch Color Scheme
-
-![screenshot3](https://github.com/user-attachments/assets/bedf799e-0edf-477c-93de-be50a5c61c8b)
-
-Vectrex Minestorm Color Scheme
-
-![screenshot4](https://github.com/user-attachments/assets/31281fee-0ef4-4d82-9ef3-859ef7e27688)
+| Pong Color Scheme | GB Color Scheme |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/b0912090-22eb-47f0-bdaa-bc0b0afe5e39" width="320"> | <img src="https://github.com/user-attachments/assets/3cc06615-5482-4fd3-bc41-e63ca8d20d6d" width="320"> |
+| **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
+| <img src="https://github.com/user-attachments/assets/583c54ca-3222-4e03-8708-8f126e26ddc3" width="320"> | <img src="https://github.com/user-attachments/assets/196f7653-8286-47c3-b287-b47af3307133" width="320"> |
+| **Kirby Color Scheme** |  |
+| <img src="https://github.com/user-attachments/assets/9cfd7d54-db2a-4f3b-ad5f-8efed65dbaeb" width="320"> |  |
 
 ## How to Install
 
 Just copy the **klon** folder into your ArkOS themes directory (inside the /roms folder), then select it from the EmulationStation UI.
 
 ## Changelog
+
+**2025-06-16**
+* New color scheme added: Kirby (੭｡╹▿╹｡)੭
+* Fixed spacing issues
 
 **2025-06-15**
 * New color scheme added: Vectrex Minestorm (based on the iconic Vectrex game, Minestorm)
