@@ -1,5 +1,5 @@
 # klon
-## ArkOS Theme 🎨
+### ArkOS Theme 🎨
 
 Hi! This is my first **ArkOS theme**, and it’s called **Klon** for three reasons:
 
@@ -10,6 +10,16 @@ Hi! This is my first **ArkOS theme**, and it’s called **Klon** for three reaso
 It's also...
 * Very minimalist and text-focused.
 * Still a work in progress! Feedback welcome, especially if you have other 640x480 / 4:3 devices. It probably won’t work very well on other aspect ratios for now 😅
+
+## Changelog
+
+**2025-06-16**
+* New color scheme added: Kirby (੭｡╹▿╹｡)੭
+* Fixed spacing issues
+
+**2025-06-15**
+* New color scheme added: Vectrex Minestorm (based on the iconic Vectrex game, Minestorm)
+* Bug fixes
 
 ## Screenshots 📸
 | Pong Color Scheme | GB Color Scheme |
@@ -23,16 +33,6 @@ It's also...
 ## How to Install
 
 Just copy the **klon** folder into your ArkOS themes directory (inside the /roms folder), then select it from the EmulationStation UI.
-
-## Changelog
-
-**2025-06-16**
-* New color scheme added: Kirby (੭｡╹▿╹｡)੭
-* Fixed spacing issues
-
-**2025-06-15**
-* New color scheme added: Vectrex Minestorm (based on the iconic Vectrex game, Minestorm)
-* Bug fixes
 
 ## License ⚖️
 
