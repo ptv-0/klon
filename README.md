@@ -24,11 +24,11 @@ It's also...
 ## Screenshots 📸
 | Pong Color Scheme | GB Color Scheme |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/b0912090-22eb-47f0-bdaa-bc0b0afe5e39" width="320"> | <img src="https://github.com/user-attachments/assets/3cc06615-5482-4fd3-bc41-e63ca8d20d6d" width="320"> |
+| <img src="https://github.com/user-attachments/assets/b0912090-22eb-47f0-bdaa-bc0b0afe5e39" width="320" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/3cc06615-5482-4fd3-bc41-e63ca8d20d6d" width="320" title="GB Color Scheme"> |
 | **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
-| <img src="https://github.com/user-attachments/assets/583c54ca-3222-4e03-8708-8f126e26ddc3" width="320"> | <img src="https://github.com/user-attachments/assets/196f7653-8286-47c3-b287-b47af3307133" width="320"> |
+| <img src="https://github.com/user-attachments/assets/583c54ca-3222-4e03-8708-8f126e26ddc3" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/196f7653-8286-47c3-b287-b47af3307133" width="320" title="Vectrex Minestorm Color Scheme"> |
 | **Kirby Color Scheme** |  |
-| <img src="https://github.com/user-attachments/assets/9cfd7d54-db2a-4f3b-ad5f-8efed65dbaeb" width="320"> |  |
+| <img src="https://github.com/user-attachments/assets/d6bf5ef7-ba77-42ff-983e-3cb5b9b9b92a" width="320" title="Kirby Color Scheme"> |  |
 
 ## How to Install
 
