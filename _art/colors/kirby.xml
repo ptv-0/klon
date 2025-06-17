@@ -1,13 +1,12 @@
 <theme>
     <formatVersion>7</formatVersion>
     <variables>
-        <bgs>eba7c1</bgs>
+        <bgs>EB97C1</bgs>
         <txts>000000</txts>
-        <fav>eba7c1</fav>
-        <menubgs>FBB3CE</menubgs>
-        <menutxts>000000</menutxts>
-        <txtstransp>00000000</txtstransp>
-        <gamelistitems>00000073</gamelistitems>
+        <fav>EB97C1</fav>
+        <menubgs>FBA2CE</menubgs>
+        <menusel>001082</menusel>
+        <gamelistitems>000000</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
     </variables>

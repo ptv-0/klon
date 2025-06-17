@@ -5,8 +5,7 @@
         <txts>092009</txts>
         <fav>B4D912</fav>
         <menubgs>C0E813</menubgs>
-        <menutxts>092009</menutxts>
-        <txtstransp>09200900</txtstransp>
+        <menusel>092009</menusel>
         <gamelistitems>09200973</gamelistitems>
         <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>

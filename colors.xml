@@ -5,8 +5,7 @@
         <txts>FCFCFC</txts>
         <fav>FCFCFC</fav>
         <menubgs>000000</menubgs>
-        <menutxts>FCFCFC</menutxts>
-        <txtstransp>FCFCFC00</txtstransp>
+        <menusel>FCFCFC</menusel>
         <gamelistitems>FCFCFCB0</gamelistitems>
         <menuinactive>./_art/imgs/pong-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/pong-menu-textinput-active.png</menuactive>
@@ -16,8 +15,7 @@
         <txts>092009</txts>
         <fav>B4D912</fav>
         <menubgs>C0E813</menubgs>
-        <menutxts>092009</menutxts>
-        <txtstransp>09200900</txtstransp>
+        <menusel>092009</menusel>
         <gamelistitems>09200973</gamelistitems>
         <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
@@ -26,9 +24,8 @@
         <bgs>efeee8</bgs>
         <txts>06160f</txts>
         <fav>efeee8</fav>
-        <menubgs>f7f7f4</menubgs>
-        <menutxts>06160f</menutxts>        
-        <txtstransp>06160f00</txtstransp>
+        <menubgs>f7f7f4</menubgs>        
+        <menusel>06160f</menusel>
         <gamelistitems>06160f66</gamelistitems>
         <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>
@@ -38,20 +35,18 @@
         <txts>68CFF0</txts>
         <fav>68CFF0</fav>
         <menubgs>00011D</menubgs>
-        <menutxts>68CFF0</menutxts>
-        <txtstransp>68CFF000</txtstransp>
+        <menusel>68CFF0</menusel>
         <gamelistitems>68CFF080</gamelistitems>
         <menuinactive>./_art/imgs/vectrex-minestorm-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/vectrex-minestorm-menu-textinput-active.png</menuactive>
     </variables>
     <variables ifSubset="color-scheme:kirby">
-        <bgs>eba7c1</bgs>
+        <bgs>EB97C1</bgs>
         <txts>000000</txts>
-        <fav>eba7c1</fav>
-        <menubgs>FBB3CE</menubgs>
-        <menutxts>000000</menutxts>
-        <txtstransp>00000000</txtstransp>
-        <gamelistitems>00000073</gamelistitems>
+        <fav>EB97C1</fav>
+        <menubgs>FBA2CE</menubgs>
+        <menusel>001082</menusel>
+        <gamelistitems>000000</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
     </variables>    

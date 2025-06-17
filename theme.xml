@@ -288,7 +288,7 @@ Creator:        PTV
     <view name="basic, detailed, video">
     <textlist name="gamelist">
          <selectorColor>${bgs}</selectorColor>
-         <selectedColor>${txts}</selectedColor>
+         <selectedColor>${menusel}</selectedColor>
          <primaryColor>${gamelistitems}</primaryColor>
          <secondaryColor>${gamelistitems}</secondaryColor>
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
@@ -372,22 +372,22 @@ Creator:        PTV
 	<menuText name="menutext">
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>.039</fontSize>
-         <color>${menutxts}</color>
-         <selectorColor>${menutxts}</selectorColor>
+         <color>${txts}</color>
+         <selectorColor>${menusel}</selectorColor>
          <selectedColor>${menubgs}</selectedColor>
-         <separatorColor>${menutxts}</separatorColor>
+         <separatorColor>${txts}</separatorColor>
     </menuText>
 
      <menuText name="menutitle">
          <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
          <fontSize>.039</fontSize>
-         <color>${menutxts}</color>
+         <color>${txts}</color>
     </menuText>
 	
 	<menuText name="menufooter, menutextsmall">
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>.029</fontSize>		 
-         <color>${menutxts}</color>
+         <color>${txts}</color>
     </menuText>
 
     <menuTextEdit name="menutextedit">
