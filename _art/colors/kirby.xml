@@ -6,7 +6,7 @@
         <fav>EB97C1</fav>
         <menubgs>FBA2CE</menubgs>
         <menusel>001082</menusel>
-        <gamelistitems>000000</gamelistitems>
+        <gamelistitems>00000073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
     </variables>
