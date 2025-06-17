@@ -7,7 +7,7 @@
         <menubgs>FBB3CE</menubgs>
         <menutxts>000000</menutxts>
         <txtstransp>00000000</txtstransp>
-        <gamelistitems>00000080</gamelistitems>
+        <gamelistitems>00000073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
     </variables>
