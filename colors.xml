@@ -49,5 +49,15 @@
         <gamelistitems>00000073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
-    </variables>    
+    </variables>
+    <variables ifSubset="color-scheme:apple-ii">
+        <bgs>181A1E</bgs>
+        <txts>55EED4</txts>
+        <fav>55EED4</fav>
+        <menubgs>1A1C20</menubgs>
+        <menusel>55EED4</menusel>
+        <gamelistitems>55EED480</gamelistitems>
+        <menuinactive>./_art/imgs/apple-ii-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/apple-ii-menu-textinput-active.png</menuactive>
+    </variables>
  </theme>

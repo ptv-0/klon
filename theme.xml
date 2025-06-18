@@ -13,7 +13,8 @@ Creator:        PTV
       <include name="gb" displayName="gb">./_art/colors/gb.xml</include>
       <include name="game-and-watch" displayName="game-and-watch">./_art/colors/game-and-watch.xml</include>
       <include name="vectrex-minestorm" displayName="vectrex-minestorm">./_art/colors/vectrex-minestorm.xml</include>
-      <include name="kirby" displayName="kirby">./_art/colors/kirby.xml</include>      
+      <include name="kirby" displayName="kirby">./_art/colors/kirby.xml</include>
+      <include name="apple-ii" displayName="apple-ii">./_art/colors/apple-ii.xml</include>
    </subset>
      <view name="screen">
       <batteryIndicator name="batteryIndicator">
