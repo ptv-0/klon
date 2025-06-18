@@ -1,10 +1,10 @@
 <theme>
     <formatVersion>7</formatVersion>
     <variables>
-        <bgs>EB97C1</bgs>
+        <bgs>EB9FAD</bgs>
         <txts>000000</txts>
         <fav>EB97C1</fav>
-        <menubgs>FBA2CE</menubgs>
+        <menubgs>FBAAB9</menubgs>
         <menusel>001082</menusel>
         <gamelistitems>00000073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>

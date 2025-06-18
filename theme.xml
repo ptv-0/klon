@@ -288,7 +288,7 @@ Creator:        PTV
     <view name="basic, detailed, video">
     <textlist name="gamelist">
          <selectorColor>${bgs}</selectorColor>
-         <selectedColor>${menusel}</selectedColor>
+         <selectedColor>${txts}</selectedColor>
          <primaryColor>${gamelistitems}</primaryColor>
          <secondaryColor>${gamelistitems}</secondaryColor>
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
