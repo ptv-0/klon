@@ -14,6 +14,10 @@ It's also...
 ## Changelog
 
 **2025-06-16**
+* New color scheme added: Apple II
+* Bug fixes
+
+**2025-06-16**
 * New color scheme added: Kirby (੭｡╹▿╹｡)੭
 * Fixed spacing issues
 
@@ -27,8 +31,8 @@ It's also...
 | <img src="https://github.com/user-attachments/assets/b0912090-22eb-47f0-bdaa-bc0b0afe5e39" width="320" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/3cc06615-5482-4fd3-bc41-e63ca8d20d6d" width="320" title="GB Color Scheme"> |
 | **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
 | <img src="https://github.com/user-attachments/assets/583c54ca-3222-4e03-8708-8f126e26ddc3" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/196f7653-8286-47c3-b287-b47af3307133" width="320" title="Vectrex Minestorm Color Scheme"> |
-| **Kirby Color Scheme** |  |
-| <img src="https://github.com/user-attachments/assets/614d6590-7a4e-4ad6-a25f-c89c6997b6a7" width="320" title="Kirby Color Scheme"> |  |
+| **Kirby Color Scheme** | **Apple II Color Scheme** |
+| <img src="https://github.com/user-attachments/assets/614d6590-7a4e-4ad6-a25f-c89c6997b6a7" width="320" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/140420e4-2e5a-4c3e-9a71-3459ac777d6d" width="320" title="Apple II Color Scheme"> |
 
 ## How to Install
 
