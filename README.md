@@ -28,7 +28,7 @@ It's also...
 | **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
 | <img src="https://github.com/user-attachments/assets/583c54ca-3222-4e03-8708-8f126e26ddc3" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/196f7653-8286-47c3-b287-b47af3307133" width="320" title="Vectrex Minestorm Color Scheme"> |
 | **Kirby Color Scheme** |  |
-| <img src="https://github.com/user-attachments/assets/d6bf5ef7-ba77-42ff-983e-3cb5b9b9b92a" width="320" title="Kirby Color Scheme"> |  |
+| <img src="https://github.com/user-attachments/assets/614d6590-7a4e-4ad6-a25f-c89c6997b6a7" width="320" title="Kirby Color Scheme"> |  |
 
 ## How to Install
 
