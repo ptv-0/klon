@@ -40,4 +40,6 @@ Just copy the **klon** folder into your ArkOS themes directory (inside the /roms
 
 ## License ⚖️
 
-[Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Some [fonts](./_art/fonts/) are licensed under Apache 2.0 and SIL Open Font License.
+
+All the files, code and images not mentioned abore are licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) License.
