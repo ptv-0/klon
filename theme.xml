@@ -18,8 +18,8 @@ Creator:        PTV
    </subset>
      <view name="screen">
       <batteryIndicator name="batteryIndicator">
-     <color>${txts}</color>
-         <pos>0.03 0.02</pos>
+         <color>${txts}</color>
+         <pos>0.0325 0.02</pos>
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <size>0.978125 0.0538461538</size>
       </batteryIndicator>
@@ -360,7 +360,7 @@ Creator:        PTV
          <visible>false</visible>
     </text>
     <textlist name="gamelist">
-         <size>0.96 0.74</size>
+         <size>0.94 0.74</size>
     </textlist>     
     </view>
   
@@ -404,7 +404,7 @@ Creator:        PTV
 	     <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <origin>1 0</origin>
-         <pos>0.97 0.0114166667</pos>
+         <pos>0.967 0.0114166667</pos>
          <size>1 0.025</size>
     </text>
     </view>
