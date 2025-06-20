@@ -28,9 +28,9 @@ It's also...
 ## Screenshots 📸
 | Pong Color Scheme | GB Color Scheme |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/851526f0-e667-42ee-9675-fd265d75a723" width="320" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/ef325d63-fea7-4e5b-867b-a9c4fd3cc35c" width="320" title="GB Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/d3e2dbdc-9b36-4ca1-8056-696c90fa90be" width="320" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/8a1deb2e-a8ce-412b-bd7d-9b485020266b" width="320" title="GB Color Scheme"> |
 | **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
-| <img src="https://github.com/user-attachments/assets/5a4f4aab-3811-4116-8159-a8fb748fd756" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/ad6ee25b-d1fd-4e17-9f03-7f6917c14f03" width="320" title="Vectrex Minestorm Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/d8371b57-30c5-49a5-b4ff-0283fcbf3e33" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/3af3e011-8b23-47dd-bc00-a0ff845886dd" width="320" title="Vectrex Minestorm Color Scheme"> |
 | **Kirby Color Scheme** | **Apple II Color Scheme** |
 | <img src="https://github.com/user-attachments/assets/614d6590-7a4e-4ad6-a25f-c89c6997b6a7" width="320" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/36ae1989-a7ae-4927-8133-2f9da53660ef" width="320" title="Apple II Color Scheme"> |
 
