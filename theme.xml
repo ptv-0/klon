@@ -19,7 +19,7 @@ Creator:        PTV
      <view name="screen">
       <batteryIndicator name="batteryIndicator">
          <color>${txts}</color>
-         <pos>0.0325 0.02</pos>
+         <pos>0.0325 0.022578125</pos>
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <size>0.978125 0.0538461538</size>
       </batteryIndicator>
@@ -82,7 +82,7 @@ Creator:        PTV
          <size>1 0.025</size>
          <backgroundColor>${bgs}</backgroundColor>
          <alignment>center</alignment>
-         <pos>0 0.0354166667</pos>
+         <pos>0 0.03763020837</pos>
          <color>${txts}</color>
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
@@ -204,7 +204,7 @@ Creator:        PTV
          <forceUppercase>true</forceUppercase>
          <size>1 0.025</size>
          <alignment>center</alignment>
-         <pos>0 0.0354166667</pos>
+         <pos>0 0.03763020837</pos>
          <color>${txts}</color>
          <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
          <fontSize>0.035</fontSize>
@@ -309,7 +309,7 @@ Creator:        PTV
          <forceUppercase>true</forceUppercase>
          <size>1 0.025</size>
          <alignment>center</alignment>
-         <pos>0 0.0354166667</pos>
+         <pos>0 0.03763020837</pos>
          <color>${txts}</color>
          <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
          <fontSize>0.035</fontSize>
@@ -404,7 +404,7 @@ Creator:        PTV
 	     <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <origin>1 0</origin>
-         <pos>0.967 0.0114166667</pos>
+         <pos>0.967 0.01213020837</pos>
          <size>1 0.025</size>
     </text>
     </view>
