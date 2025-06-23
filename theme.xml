@@ -372,22 +372,28 @@ Creator:        PTV
 	
 	<menuText name="menutext">
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
-         <fontSize>.039</fontSize>
+         <fontSize>0.035</fontSize>
          <color>${txts}</color>
          <selectorColor>${menusel}</selectorColor>
          <selectedColor>${menutxt}</selectedColor>
          <separatorColor>${txts}</separatorColor>
     </menuText>
 
+    <menuGroup name="menugroup">
+         <color>${menusel}</color>
+         <separatorColor>${menusel}99</separatorColor>
+         <backgroundColor>${menusel}1A</backgroundColor>
+    </menuGroup>
+
      <menuText name="menutitle">
          <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
-         <fontSize>.039</fontSize>
+         <fontSize>0.035</fontSize>
          <color>${txts}</color>
     </menuText>
 	
 	<menuText name="menufooter, menutextsmall">
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
-         <fontSize>.029</fontSize>		 
+         <fontSize>0.025</fontSize>		 
          <color>${txts}</color>
     </menuText>
 
@@ -401,14 +407,16 @@ Creator:        PTV
 	</view>
   
   	<view name="screen">
-         <text name="clock">
-	     <color>${txts}</color>
-	     <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
-         <fontSize>0.035</fontSize>
-         <origin>1 0</origin>
-         <pos>0.967 0.01213020837</pos>
-         <size>1 0.025</size>
-    </text>
+        <text name="clock">
+	       <color>${txts}</color>
+           <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+           <fontSize>0.035</fontSize>
+           <origin>1 0</origin>
+           <alignment>right</alignment>
+           <pos>0.967 0.024</pos>
+           <size>1 0.025</size>
+           <zIndex>5</zIndex>
+        </text>
     </view>
   
 </theme>
