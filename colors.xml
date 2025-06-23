@@ -6,6 +6,7 @@
         <fav>FCFCFC</fav>
         <menubgs>000000</menubgs>
         <menusel>FCFCFC</menusel>
+        <menutxt>000000</menutxt>
         <gamelistitems>FCFCFCB0</gamelistitems>
         <menuinactive>./_art/imgs/pong-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/pong-menu-textinput-active.png</menuactive>
@@ -16,6 +17,7 @@
         <fav>B4D912</fav>
         <menubgs>C0E813</menubgs>
         <menusel>092009</menusel>
+        <menutxt>C0E813</menutxt>
         <gamelistitems>09200973</gamelistitems>
         <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
@@ -24,8 +26,9 @@
         <bgs>efeee8</bgs>
         <txts>06160f</txts>
         <fav>efeee8</fav>
-        <menubgs>f7f7f4</menubgs>        
+        <menubgs>f7f7f4</menubgs>
         <menusel>06160f</menusel>
+        <menutxt>f7f7f4</menutxt>
         <gamelistitems>06160f66</gamelistitems>
         <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>
@@ -36,17 +39,19 @@
         <fav>68CFF0</fav>
         <menubgs>00011D</menubgs>
         <menusel>68CFF0</menusel>
+        <menutxt>00011D</menutxt>
         <gamelistitems>68CFF080</gamelistitems>
         <menuinactive>./_art/imgs/vectrex-minestorm-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/vectrex-minestorm-menu-textinput-active.png</menuactive>
     </variables>
     <variables ifSubset="color-scheme:kirby">
         <bgs>EB9FAD</bgs>
-        <txts>000000</txts>
+        <txts>000420</txts>
         <fav>EB97C1</fav>
         <menubgs>FBAAB9</menubgs>
-        <menusel>001082</menusel>
-        <gamelistitems>00000073</gamelistitems>
+        <menusel>ffdebf</menusel>
+        <menutxt>000420</menutxt>
+        <gamelistitems>00042073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
     </variables>
@@ -56,6 +61,7 @@
         <fav>6CE6B8</fav>
         <menubgs>1A1C20</menubgs>
         <menusel>6CE6B8</menusel>
+        <menutxt>1A1C20</menutxt>
         <gamelistitems>6CE6B880</gamelistitems>
         <menuinactive>./_art/imgs/apple-ii-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/apple-ii-menu-textinput-active.png</menuactive>

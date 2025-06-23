@@ -6,6 +6,7 @@
         <fav>6CE6B8</fav>
         <menubgs>1A1C20</menubgs>
         <menusel>6CE6B8</menusel>
+        <menutxt>1A1C20</menutxt>
         <gamelistitems>6CE6B880</gamelistitems>
         <menuinactive>./_art/imgs/apple-ii-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/apple-ii-menu-textinput-active.png</menuactive>

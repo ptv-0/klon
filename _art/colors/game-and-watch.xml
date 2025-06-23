@@ -6,6 +6,7 @@
         <fav>efeee8</fav>
         <menubgs>f7f7f4</menubgs>
         <menusel>06160f</menusel>
+        <menutxt>f7f7f4</menutxt>
         <gamelistitems>06160f66</gamelistitems>
         <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>

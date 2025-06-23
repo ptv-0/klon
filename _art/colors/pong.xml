@@ -6,6 +6,7 @@
         <fav>FCFCFC</fav>
         <menubgs>000000</menubgs>
         <menusel>FCFCFC</menusel>
+        <menutxt>000000</menutxt>
         <gamelistitems>FCFCFCB0</gamelistitems>
         <menuinactive>./_art/imgs/pong-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/pong-menu-textinput-active.png</menuactive>

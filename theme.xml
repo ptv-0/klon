@@ -375,7 +375,7 @@ Creator:        PTV
          <fontSize>.039</fontSize>
          <color>${txts}</color>
          <selectorColor>${menusel}</selectorColor>
-         <selectedColor>${menubgs}</selectedColor>
+         <selectedColor>${menutxt}</selectedColor>
          <separatorColor>${txts}</separatorColor>
     </menuText>
 
@@ -396,6 +396,8 @@ Creator:        PTV
       <active>${menuactive}</active>
     </menuTextEdit>
 
+
+
 	</view>
   
   	<view name="screen">
@@ -404,7 +406,7 @@ Creator:        PTV
 	     <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <origin>1 0</origin>
-         <pos>0.967 0.01213020837</pos>
+         <pos>0.967 0.025</pos>
          <size>1 0.025</size>
     </text>
     </view>

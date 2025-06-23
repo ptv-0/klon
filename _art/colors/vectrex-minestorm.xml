@@ -6,6 +6,7 @@
         <fav>68CFF0</fav>
         <menubgs>00011D</menubgs>
         <menusel>68CFF0</menusel>
+        <menutxt>00011D</menutxt>
         <gamelistitems>68CFF080</gamelistitems>
         <menuinactive>./_art/imgs/vectrex-minestorm-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/vectrex-minestorm-menu-textinput-active.png</menuactive>
