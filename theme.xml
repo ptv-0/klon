@@ -406,7 +406,7 @@ Creator:        PTV
 	     <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <origin>1 0</origin>
-         <pos>0.967 0.025</pos>
+         <pos>0.967 0.01213020837</pos>
          <size>1 0.025</size>
     </text>
     </view>
