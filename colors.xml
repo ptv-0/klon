@@ -23,12 +23,12 @@
         <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
     </variables>
     <variables ifSubset="color-scheme:game-and-watch">
-        <bgs>efeee8</bgs>
+        <bgs>e7e5dc</bgs>
         <txts>06160f</txts>
-        <fav>efeee8</fav>
-        <menubgs>f7f7f4</menubgs>
+        <fav>e7e5dc</fav>
+        <menubgs>F7F5EB</menubgs>
         <menusel>06160f</menusel>
-        <menutxt>f7f7f4</menutxt>
+        <menutxt>F7F5EB</menutxt>
         <gamelistitems>06160f66</gamelistitems>
         <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>
@@ -49,7 +49,7 @@
         <txts>000420</txts>
         <fav>EB97C1</fav>
         <menubgs>FBAAB9</menubgs>
-        <menusel>ffdebf</menusel>
+        <menusel>ffdebfff</menusel>
         <menutxt>000420</menutxt>
         <gamelistitems>00042073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>

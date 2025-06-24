@@ -17,12 +17,21 @@ Creator:        PTV
       <include name="apple-ii" displayName="apple-ii">./_art/colors/apple-ii.xml</include>
    </subset>
      <view name="screen">
-      <batteryIndicator name="batteryIndicator">
-         <color>${txts}</color>
-         <pos>0.0325 0.022578125</pos>
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
-         <size>0.978125 0.0538461538</size>
-      </batteryIndicator>
+        <batteryIndicator name="batteryIndicator">
+            <color>${txts}</color>
+            <pos>0.0325 0.022578125</pos>
+            <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+            <size>0.978125 0.0538461538</size>
+        </batteryIndicator>
+        <text name="clock">
+            <color>${txts}</color>
+            <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+            <fontSize>0.035</fontSize>
+            <origin>1 0</origin>
+            <alignment>right</alignment>
+            <size>1 1</size>
+            <pos>0.967 0.0125</pos>
+        </text>
    </view>
    
     <view name="system">	
@@ -370,7 +379,7 @@ Creator:        PTV
          <color>${menubgs}</color>
     </menuBackground>
 	
-	<menuText name="menutext">
+	<menuText name="menutext, menugroup">
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <color>${txts}</color>
@@ -378,12 +387,6 @@ Creator:        PTV
          <selectedColor>${menutxt}</selectedColor>
          <separatorColor>${txts}</separatorColor>
     </menuText>
-
-    <menuGroup name="menugroup">
-         <color>${menusel}</color>
-         <separatorColor>${menusel}99</separatorColor>
-         <backgroundColor>${menusel}1A</backgroundColor>
-    </menuGroup>
 
      <menuText name="menutitle">
          <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
@@ -394,7 +397,7 @@ Creator:        PTV
 	<menuText name="menufooter, menutextsmall">
          <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
          <fontSize>0.025</fontSize>		 
-         <color>${txts}</color>
+         <color>${gamelistitems}</color>
     </menuText>
 
     <menuTextEdit name="menutextedit">
@@ -402,21 +405,6 @@ Creator:        PTV
       <active>${menuactive}</active>
     </menuTextEdit>
 
-
-
 	</view>
-  
-  	<view name="screen">
-        <text name="clock">
-	       <color>${txts}</color>
-           <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
-           <fontSize>0.035</fontSize>
-           <origin>1 0</origin>
-           <alignment>right</alignment>
-           <pos>0.967 0.024</pos>
-           <size>1 0.025</size>
-           <zIndex>5</zIndex>
-        </text>
-    </view>
   
 </theme>
