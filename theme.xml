@@ -385,6 +385,7 @@ Creator:        PTV
          <color>${txts}</color>
          <selectorColor>${menusel}</selectorColor>
          <selectedColor>${menutxt}</selectedColor>
+         <buttonselectorColor>${menusel}</buttonselectorColor>
          <separatorColor>${txts}</separatorColor>
     </menuText>
 
