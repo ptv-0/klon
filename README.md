@@ -40,7 +40,7 @@ Big update!
 | **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
 | <img src="https://github.com/user-attachments/assets/12c8d0d4-2b30-4d00-bdae-d4dcbbd50a9b" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/ce0af226-422f-4a65-9614-f827d3c060cc" width="320" title="Vectrex Minestorm Color Scheme"> |
 | **Kirby Color Scheme** | **Apple II Color Scheme** |
-| <img src="https://github.com/user-attachments/assets/5f9ce0b0-84ee-490a-8b4e-b39822842648" width="320" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/63add1fd-a95b-4de4-86f1-6f16a794978e" width="320" title="Apple II Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/b7fcf32d-58b8-4db3-bb84-d1b972b26071" width="320" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/63add1fd-a95b-4de4-86f1-6f16a794978e" width="320" title="Apple II Color Scheme"> |
 
 ## How to Install
 
