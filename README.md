@@ -14,7 +14,9 @@ It's also...
 ## Changelog
 
 **2025-06-25**
+
 Big update!
+
 * Switched the font to the crisper Inter Tight
 * Tweaked spacing in a few sections for better alignment
 * Updated the icons for menu switches and buttons, improving how the colors look
