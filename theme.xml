@@ -20,17 +20,17 @@ Creator:        PTV
         <batteryIndicator name="batteryIndicator">
             <color>${txts}</color>
             <pos>0.0325 0.022578125</pos>
-            <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+            <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
             <size>0.978125 0.0538461538</size>
         </batteryIndicator>
         <text name="clock">
             <color>${txts}</color>
-            <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+            <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
             <fontSize>0.035</fontSize>
             <origin>1 0</origin>
             <alignment>right</alignment>
             <size>1 1</size>
-            <pos>0.967 0.0125</pos>
+            <pos>0.967 0.011</pos>
         </text>
    </view>
    
@@ -78,7 +78,7 @@ Creator:        PTV
      </image>
 
     <text name="logoText">
-         <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
          <fontSize>0.055</fontSize>
 		 <forceUppercase>true</forceUppercase>
          <lineSpacing>1</lineSpacing>
@@ -93,7 +93,7 @@ Creator:        PTV
          <alignment>center</alignment>
          <pos>0 0.03763020837</pos>
          <color>${txts}</color>
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <zIndex>4</zIndex>   
     </text> 
@@ -101,12 +101,12 @@ Creator:        PTV
   
     <view name="system, detailed, video, basic, grid">
     <helpsystem name="help">
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>  
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>  
          <fontSize>0.0225</fontSize>
          <alignment>center</alignment>
            <size>1 0.6</size>
            <origin>0.5 1</origin>
-           <pos>0.5102 0.9604166666</pos>
+           <pos>0.512 0.9604166666</pos>
            <textColor>${txts}</textColor>
            <iconColor>${txts}</iconColor>
            <zIndex>9</zIndex>
@@ -215,7 +215,7 @@ Creator:        PTV
          <alignment>center</alignment>
          <pos>0 0.03763020837</pos>
          <color>${txts}</color>
-         <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <zIndex>3</zIndex>
     </text>
@@ -231,7 +231,7 @@ Creator:        PTV
          <origin>0 1</origin>
          <pos>0 0.8291666667</pos>
          <color>${txts}</color>
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <zIndex>3</zIndex>
     </text>
@@ -301,7 +301,7 @@ Creator:        PTV
          <selectedColor>${txts}</selectedColor>
          <primaryColor>${gamelistitems}</primaryColor>
          <secondaryColor>${gamelistitems}</secondaryColor>
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
          <fontSize>0.032</fontSize>
          <pos>0.02 0.125</pos>
          <size>0.5116398714 0.74</size>
@@ -320,7 +320,7 @@ Creator:        PTV
          <alignment>center</alignment>
          <pos>0 0.03763020837</pos>
          <color>${txts}</color>
-         <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <zIndex>3</zIndex>
     </text>
@@ -380,7 +380,7 @@ Creator:        PTV
     </menuBackground>
 	
 	<menuText name="menutext, menugroup">
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <color>${txts}</color>
          <selectorColor>${menusel}</selectorColor>
@@ -390,13 +390,23 @@ Creator:        PTV
     </menuText>
 
      <menuText name="menutitle">
-         <fontPath>./_art/fonts/Inter-Bold.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <color>${txts}</color>
     </menuText>
+
+    <menuButton name="menubutton">
+        <path>./_art/imgs/button-normal.png</path>
+        <filledPath>./_art/imgs/button-hover.png</filledPath>
+    </menuButton>
+
+    <menuSwitch name="menuswitch">
+        <pathOn>./_art/imgs/switch-on.svg</pathOn>
+        <pathOff>./_art/imgs/switch-off.svg</pathOff>
+    </menuSwitch>
 	
 	<menuText name="menufooter, menutextsmall">
-         <fontPath>./_art/fonts/Inter-Medium.ttf</fontPath>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
          <fontSize>0.025</fontSize>		 
          <color>${gamelistitems}</color>
     </menuText>

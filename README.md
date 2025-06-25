@@ -13,6 +13,12 @@ It's also...
 
 ## Changelog
 
+**2025-06-25**
+Big update!
+* Switched the font to the crisper Inter Tight
+* Tweaked spacing in a few sections for better alignment
+* Updated the icons for menu switches and buttons, improving how the colors look
+
 **2025-06-16**
 * New color scheme added: Apple II
 * Bug fixes
@@ -28,11 +34,11 @@ It's also...
 ## Screenshots 📸
 | Pong Color Scheme | GB Color Scheme |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/d3e2dbdc-9b36-4ca1-8056-696c90fa90be" width="320" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/8a1deb2e-a8ce-412b-bd7d-9b485020266b" width="320" title="GB Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/105498ab-9c5e-4e3a-809d-07d9fb28bdfb" width="320" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/133282c6-fc78-4532-8b69-a8c50d902940" width="320" title="GB Color Scheme"> |
 | **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
-| <img src="https://github.com/user-attachments/assets/d8371b57-30c5-49a5-b4ff-0283fcbf3e33" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/3af3e011-8b23-47dd-bc00-a0ff845886dd" width="320" title="Vectrex Minestorm Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/12c8d0d4-2b30-4d00-bdae-d4dcbbd50a9b" width="320" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/ce0af226-422f-4a65-9614-f827d3c060cc" width="320" title="Vectrex Minestorm Color Scheme"> |
 | **Kirby Color Scheme** | **Apple II Color Scheme** |
-| <img src="https://github.com/user-attachments/assets/23b0359f-d310-497a-863b-02d7e42e445f" width="320" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/36ae1989-a7ae-4927-8133-2f9da53660ef" width="320" title="Apple II Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/5f9ce0b0-84ee-490a-8b4e-b39822842648" width="320" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/63add1fd-a95b-4de4-86f1-6f16a794978e" width="320" title="Apple II Color Scheme"> |
 
 ## How to Install
 
@@ -40,6 +46,6 @@ Just copy the **klon** folder into your ArkOS themes directory (inside the /roms
 
 ## License ⚖️
 
-Some [fonts](./_art/fonts/) are licensed under Apache 2.0 and SIL Open Font License.
+[Fonts](./_art/fonts/) are licensed under [SIL Open Font License, Version 1.1](https://openfontlicense.org/open-font-license-official-text/).
 
 All the files, code and images not mentioned abore are licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) License.
