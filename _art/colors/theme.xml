@@ -1,0 +1,433 @@
+<!--
+theme name:     Klon
+Creator:        PTV
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+
+   <include>./colors.xml</include>
+   <subset name="color-scheme" displayName="Color Scheme">
+      <include name="pong" displayName="pong">./_art/colors/pong.xml</include>
+      <include name="gb" displayName="gb">./_art/colors/gb.xml</include>
+      <include name="game-and-watch" displayName="game-and-watch">./_art/colors/game-and-watch.xml</include>
+      <include name="vectrex-minestorm" displayName="vectrex-minestorm">./_art/colors/vectrex-minestorm.xml</include>
+      <include name="kirby" displayName="kirby">./_art/colors/kirby.xml</include>
+      <include name="apple-ii" displayName="apple-ii">./_art/colors/apple-ii.xml</include>
+   </subset>
+     <view name="screen">
+        <batteryIndicator name="batteryIndicator">
+            <color>${txts}</color>
+            <pos>0.0325 0.022578125</pos>
+            <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+            <size>0.978125 0.0538461538</size>
+        </batteryIndicator>
+        <text name="clock">
+            <color>${txts}</color>
+            <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+            <fontSize>0.035</fontSize>
+            <origin>1 0</origin>
+            <alignment>right</alignment>
+            <size>1 1</size>
+            <pos>0.967 0.011</pos>
+        </text>
+   </view>
+   
+    <view name="system">	
+    <carousel name="systemcarousel">
+     <origin>0 0</origin>
+     <type>vertical</type>
+     <color>${bgs}</color>
+     <logoSize>0.8 0.48</logoSize>
+     <maxLogoCount>7</maxLogoCount>
+     <pos>0 0.06</pos>
+     <logoPos>0.03 0.2</logoPos>
+     <logoAlignment>left</logoAlignment>
+     <size>1 0.9</size>
+     <logoScale>1.3</logoScale>
+     <fastScrolling>true</fastScrolling>
+     <zIndex>2</zIndex> 
+    </carousel>
+
+     <image name="background">
+         <color>${bgs}</color>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <path>./_art/imgs/box.png</path>
+         <zIndex>1</zIndex>     
+     </image>
+
+     <image name="backgroundhelper" extra="true">
+         <color>${bgs}</color>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 0.1</size>
+         <path>./_art/imgs/box.png</path>
+         <zIndex>3</zIndex>     
+     </image>
+
+     <image name="backgroundhelper2" extra="true">
+      <color>${bgs}</color>
+      <pos>0 1</pos>
+      <origin>0 1</origin>
+      <size>1 0.1</size>
+      <path>./_art/imgs/box.png</path>
+      <zIndex>3</zIndex>     
+     </image>
+
+    <text name="logoText">
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
+         <fontSize>0.055</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <lineSpacing>1</lineSpacing>
+         <alignment>center</alignment>
+         <color>${txts}</color>
+    </text>
+	  
+    <text name="systemInfo">     
+         <forceUppercase>true</forceUppercase>
+         <size>1 0.025</size>
+         <backgroundColor>${bgs}</backgroundColor>
+         <alignment>center</alignment>
+         <pos>0 0.03763020837</pos>
+         <color>${txts}</color>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <zIndex>4</zIndex>   
+    </text> 
+    </view>
+  
+    <view name="system, detailed, video, basic, grid">
+    <helpsystem name="help">
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>  
+         <fontSize>0.0225</fontSize>
+         <alignment>center</alignment>
+           <size>1 0.6</size>
+           <origin>0.5 1</origin>
+           <pos>0.512 0.962</pos>
+           <textColor>${txts}</textColor>
+           <iconColor>${txts}</iconColor>
+           <zIndex>9</zIndex>
+    </helpsystem>
+    </view>
+
+     <view name="system, basic, detailed, video, grid">
+     <image name="background">
+         <color>${bgs}</color>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <path>./_art/imgs/box.png</path>
+         <zIndex>1</zIndex>     
+     </image>
+     <image name="horizontaldivider" extra="true">
+          <pos>0 0.1</pos>
+          <color>${txts}</color>
+          <tile>true</tile>
+          <origin>0 0</origin>
+          <size>1 0.005</size>
+          <path>./_art/imgs/box.png</path>
+          <zIndex>4</zIndex>
+     </image>
+     <image name="horizontaldivider2" extra="true">
+          <pos>0 0.9</pos>
+          <color>${txts}</color>
+          <tile>true</tile>
+          <origin>0 1</origin>
+          <size>1 0.005</size>
+          <path>./_art/imgs/box.png</path>
+          <zIndex>4</zIndex>
+     </image>
+     </view>
+
+  
+  <view name="grid">
+      <imagegrid name="gamegrid">
+      <systemNameSuffix>true</systemNameSuffix>
+      <pos>0 0.13</pos>
+      <size>1 0.6</size>
+      <autoLayoutSelectedZoom>0.79</autoLayoutSelectedZoom>
+      <imageSource>image</imageSource>
+      <scrollDirection>vertical</scrollDirection>
+      <autoLayout>3 2</autoLayout>
+      <margin>0.00001 0.0015</margin>
+      <padding>0 0 0 0</padding>
+      <animateSelection>false</animateSelection>
+      <maxlength>.5</maxlength>
+      <showVideoAtDelay>0.7</showVideoAtDelay>
+      <effect>none</effect>
+    </imagegrid>
+
+    <gridtile name="default">
+      <backgroundColor>${bgs}</backgroundColor>
+      <selectionMode>image</selectionMode>
+      <backgroundCornerSize>0.005 0.005</backgroundCornerSize>
+    </gridtile>
+
+    <gridtile name="selected">
+      <backgroundCenterColor>${txts}</backgroundCenterColor>
+      <backgroundEdgeColor>${txts}</backgroundEdgeColor>
+      <backgroundCornerSize>0.005 0.005</backgroundCornerSize>
+      <padding>2 2 2 2</padding>
+      <imageColor>FFFFFFAA</imageColor>
+    </gridtile>
+    
+    <text name="gridtile">
+      <color>${txts}</color>
+      <backgroundColor>${bgs}</backgroundColor>
+      <fontSize>0.035</fontSize>
+      <alignment>center</alignment>
+      <size>0.05 0.24</size>
+      <origin>-999 -999</origin>
+      <visible>false</visible>
+    </text>
+    
+    <text name="gridtile_selected">
+      <color>${txts}</color>
+      <glowColor>${txts}</glowColor>
+      <glowSize>3</glowSize>
+    </text>
+
+     <image name="backgroundhelper" extra="true">
+      <color>${bgs}</color>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 0.4</size>
+      <path>./_art/imgs/box.png</path>
+      <zIndex>1</zIndex>     
+     </image>
+
+    <image name="background" extra="true">
+      <color>${bgs}</color>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <path>./_art/imgs/box.png</path>
+      <zIndex>2</zIndex>
+    </image>
+
+    <text name="system_name" extra="true">
+         <text>${system.fullName}</text>
+         <forceUppercase>true</forceUppercase>
+         <size>1 0.025</size>
+         <alignment>center</alignment>
+         <pos>0 0.03763020837</pos>
+         <color>${txts}</color>
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <zIndex>3</zIndex>
+    </text>
+
+    <text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate, md_rating">
+      <visible>false</visible>
+    </text>
+  
+    <text name="md_name">
+         <forceUppercase>false</forceUppercase>
+         <size>1 0.025</size>
+         <alignment>center</alignment>
+         <origin>0 1</origin>
+         <pos>0 0.8291666667</pos>
+         <color>${txts}</color>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <zIndex>3</zIndex>
+    </text>
+
+     <video name="md_video">
+      <pos>0.9 0.058</pos>
+      <maxSize>0.15 0.12</maxSize>
+      <origin>0.5 0.5</origin>
+      <default>./_art/imgs/nope.mp4</default>
+      <delay>2</delay>
+      <showSnapshotNoVideo>false</showSnapshotNoVideo>
+      <showSnapshotDelay>false</showSnapshotDelay>
+      <visible>false</visible>
+     </video>
+
+        <image name="gridtile.favorite">
+      <path>./_art/imgs/favorites.svg</path>
+      <pos>0.0 0</pos>
+      <maxSize>0.25 0.25</maxSize>
+      <origin>0 0</origin>
+      <color>${fav}</color>
+     </image>
+     
+     <image name="gridtile.favorite:selected">
+      <path>./_art/imgs/favorites.svg</path>
+      <color>${fav}</color>
+     </image>
+     
+     <image name="gridtile.cheevos">
+      <path>./_art/imgs/cheevos.svg</path>
+      <pos>0 1</pos>
+      <maxSize>0.25 0.25</maxSize>
+      <origin>0 1</origin>
+      <color>${fav}</color>
+     </image>
+     
+     <image name="gridtile.cheevos:selected">
+      <path>./_art/imgs/cheevos.svg</path>
+      <color>${fav}</color>
+     </image>
+
+  </view>
+
+     <view name="detailed, video">
+     <image name="verticaldivider" extra="true">
+          <color>${txts}</color>
+          <pos>0.55 0.1</pos>
+          <tile>true</tile>
+          <origin>0 0</origin>
+          <size>0.0025 0.9</size>
+          <path>./_art/imgs/box.png</path>
+          <zIndex>3</zIndex>
+     </image>
+     <image name="backgroundhelper2" extra="true">
+      <color>${bgs}</color>
+      <pos>0 1</pos>
+      <origin>0 1</origin>
+      <size>1 0.1</size>
+      <path>./_art/imgs/box.png</path>
+      <zIndex>4</zIndex>     
+     </image>
+     </view>
+
+    <view name="basic, detailed, video">
+    <textlist name="gamelist">
+         <selectorColor>${bgs}</selectorColor>
+         <selectedColor>${txts}</selectedColor>
+         <primaryColor>${gamelistitems}</primaryColor>
+         <secondaryColor>${gamelistitems}</secondaryColor>
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+         <fontSize>0.032</fontSize>
+         <pos>0.02 0.125</pos>
+         <size>0.5116398714 0.74</size>
+         <alignment>left</alignment>
+         <horizontalMargin>0.01</horizontalMargin>
+         <origin>0 0</origin>
+         <lineSpacing>1.5</lineSpacing>
+         <selectorOffsetY>-0.01</selectorOffsetY>
+         <selectorHeight>0.0675</selectorHeight>
+    </textlist>
+	
+    <text name="system_name" extra="true">
+         <text>${system.fullName}</text>
+         <forceUppercase>true</forceUppercase>
+         <size>1 0.025</size>
+         <alignment>center</alignment>
+         <pos>0 0.03763020837</pos>
+         <color>${txts}</color>
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <zIndex>3</zIndex>
+    </text>
+	
+    <text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate, md_description">
+         <visible>false</visible>
+    </text>
+	
+    <rating name="md_rating">
+         <visible>false</visible>
+    </rating>
+	
+    <image name="md_thumbnail">
+         <visible>false</visible>
+    </image>
+
+     <image name="md_marquee">
+         <origin>0.5 1</origin>
+         <pos>0.7764078063 0.85125</pos>
+         <maxSize>0.3814462465 0.31</maxSize>
+         <zIndex>4</zIndex>
+      </image>
+
+     <image name="md_image">
+         <origin>0.5 0</origin>
+         <pos>0.7764078063 0.1470714286</pos>
+         <maxSize>0.3814462465 0.53</maxSize>
+         <zIndex>2</zIndex>
+      </image>
+	
+    <video name="md_video">
+         <origin>0.5 0</origin>
+         <pos>0.7764078063 0.1470714286</pos>
+         <maxSize>0.3814462465 0.53</maxSize>
+         <delay>0.7</delay>
+         <zIndex>3</zIndex>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+         <snapshotSource>image</snapshotSource>
+		 <effect>none</effect> 
+    </video>
+    </view>
+
+    <view name="basic">
+    <text name="description" extra="true">
+         <visible>false</visible>
+    </text>
+    <textlist name="gamelist">
+         <size>0.94 0.74</size>
+    </textlist>     
+    </view>
+  
+   
+    <view name="menu">
+    <menuBackground name="menubg">
+         <color>${menubgs}</color>
+    </menuBackground>
+	
+	<menuText name="menutext, menugroup">
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <color>${txts}</color>
+         <selectorColor>${menusel}</selectorColor>
+         <selectedColor>${menutxt}</selectedColor>
+         <buttonselectorColor>${menusel}</buttonselectorColor>
+         <separatorColor>${txts}</separatorColor>
+    </menuText>
+
+    <menuGroup name="menugroup">
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <color>${gamelistitems}</color>
+    </menuGroup>
+
+     <menuText name="menutitle">
+         <fontPath>./_art/fonts/InterTight-Bold.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <color>${txts}</color>
+    </menuText>
+
+    <menuButton name="menubutton">
+        <path>./_art/imgs/button-normal.png</path>
+        <filledPath>./_art/imgs/button-hover.png</filledPath>
+    </menuButton>
+
+    <menuSwitch name="menuswitch">
+        <pathOn>./_art/imgs/switch-on.svg</pathOn>
+        <pathOff>./_art/imgs/switch-off.svg</pathOff>
+    </menuSwitch>
+	
+	<menuText name="menufooter">
+         <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+         <fontSize>0.0275</fontSize>		 
+         <color>${gamelistitems}</color>
+    </menuText>
+
+    <menuTextSmall name="menutextsmall">
+        <fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+        <fontSize>0.0275</fontSize>
+        <color>${gamelistitems}</color>
+    </menuTextSmall>
+
+    <menuTextEdit name="menutextedit">
+      <inactive>${menuinactive}</inactive>
+      <active>${menuactive}</active>
+    </menuTextEdit>
+
+	</view>
+  
+</theme>
