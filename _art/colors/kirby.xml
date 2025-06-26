@@ -1,10 +1,10 @@
 <theme>
     <formatVersion>7</formatVersion>
     <variables>
-        <bgs>EB9FAD</bgs>
+        <bgs>EE8F9B</bgs>
         <txts>000420</txts>
-        <fav>EB9FAD</fav>
-        <menubgs>FBAAB9</menubgs>
+        <fav>EE8F9B</fav>
+        <menubgs>FF99A6</menubgs>
         <menusel>fff7f0</menusel>
         <menutxt>000420</menutxt>
         <gamelistitems>00042073</gamelistitems>
