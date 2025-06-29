@@ -15,8 +15,8 @@ It's also...
 
 **2025-06-28**
 
-* New color schemes: Virtual Boy-ish (inspired by the Virtual Boy, but easier on the eyes) and GBC Pastel Mix (my favorite GBC colorization palette).
-* New folder and cartridge icons for grid view.
+* New color schemes: Virtual Boy-ish (inspired by the Virtual Boy, but easier on the eyes) and GBC Pastel Mix (my favorite GBC colorization palette)
+* New folder and cartridge icons for grid view
 
 **2025-06-25**
 
