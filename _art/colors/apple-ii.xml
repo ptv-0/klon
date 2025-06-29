@@ -10,5 +10,7 @@
         <gamelistitems>6CE6B880</gamelistitems>
         <menuinactive>./_art/imgs/apple-ii-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/apple-ii-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/apple-ii-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/apple-ii-folder.png</folder>
     </variables>
 </theme>

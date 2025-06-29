@@ -15,6 +15,8 @@ Creator:        PTV
       <include name="vectrex-minestorm" displayName="vectrex-minestorm">./_art/colors/vectrex-minestorm.xml</include>
       <include name="kirby" displayName="kirby">./_art/colors/kirby.xml</include>
       <include name="apple-ii" displayName="apple-ii">./_art/colors/apple-ii.xml</include>
+      <include name="virtual-boy-ish" displayName="virtual-boy-ish">./_art/colors/virtual-boy-ish.xml</include>
+      <include name="gbc-pastel-mix" displayName="gbc-pastel-mix">./_art/colors/gbc-pastel-mix.xml</include>
    </subset>
      <view name="screen">
         <batteryIndicator name="batteryIndicator">
@@ -158,6 +160,9 @@ Creator:        PTV
       <maxlength>.5</maxlength>
       <showVideoAtDelay>0.7</showVideoAtDelay>
       <effect>none</effect>
+      <gameImage>${cartridge}</gameImage>
+      <folderImage>${folder}</folderImage>
+      <color>${txts}</color>
     </imagegrid>
 
     <gridtile name="default">
@@ -167,8 +172,8 @@ Creator:        PTV
     </gridtile>
 
     <gridtile name="selected">
-      <backgroundCenterColor>${txts}</backgroundCenterColor>
-      <backgroundEdgeColor>${txts}</backgroundEdgeColor>
+      <backgroundCenterColor>${menusel}</backgroundCenterColor>
+      <backgroundEdgeColor>${menusel}</backgroundEdgeColor>
       <backgroundCornerSize>0.005 0.005</backgroundCornerSize>
       <padding>2 2 2 2</padding>
       <imageColor>FFFFFFAA</imageColor>

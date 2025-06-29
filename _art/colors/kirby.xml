@@ -10,5 +10,7 @@
         <gamelistitems>00042073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/kirby-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/kirby-folder.png</folder>
     </variables>
 </theme>

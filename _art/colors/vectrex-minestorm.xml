@@ -10,5 +10,7 @@
         <gamelistitems>68CFF080</gamelistitems>
         <menuinactive>./_art/imgs/vectrex-minestorm-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/vectrex-minestorm-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/vectrex-minestorm-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/vectrex-minestorm-folder.png</folder>
     </variables>
 </theme>

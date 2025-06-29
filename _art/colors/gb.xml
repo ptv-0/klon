@@ -10,5 +10,7 @@
         <gamelistitems>09200973</gamelistitems>
         <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/gb-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/gb-folder.png</folder>
     </variables>
 </theme>

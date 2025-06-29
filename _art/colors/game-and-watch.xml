@@ -10,5 +10,7 @@
         <gamelistitems>06160f66</gamelistitems>
         <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/game-and-watch-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/game-and-watch-folder.png</folder>
     </variables>
 </theme>

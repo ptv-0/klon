@@ -10,5 +10,7 @@
         <gamelistitems>FCFCFCB0</gamelistitems>
         <menuinactive>./_art/imgs/pong-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/pong-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/pong-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/pong-folder.png</folder>
     </variables>
 </theme>

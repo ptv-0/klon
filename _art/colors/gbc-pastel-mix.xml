@@ -1,0 +1,16 @@
+<theme>
+    <formatVersion>7</formatVersion>
+    <variables>
+        <bgs>EEDCB8</bgs>
+        <txts>000000</txts>
+        <fav>EEDCB8</fav>
+        <menubgs>FFEBC5</menubgs>
+        <menusel>9CB2E6</menusel>
+        <menutxt>000000</menutxt>
+        <gamelistitems>00000066</gamelistitems>
+        <menuinactive>./_art/imgs/gbc-pastel-mix-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/gbc-pastel-mix-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/gbc-pastel-mix-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/gbc-pastel-mix-folder.png</folder>
+    </variables>
+</theme>

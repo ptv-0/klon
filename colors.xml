@@ -10,6 +10,8 @@
         <gamelistitems>FCFCFCB0</gamelistitems>
         <menuinactive>./_art/imgs/pong-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/pong-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/pong-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/pong-folder.png</folder>
     </variables>
     <variables ifSubset="color-scheme:gb">
         <bgs>B4D912</bgs>
@@ -21,6 +23,8 @@
         <gamelistitems>09200973</gamelistitems>
         <menuinactive>./_art/imgs/gb-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/gb-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/gb-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/gb-folder.png</folder>
     </variables>
     <variables ifSubset="color-scheme:game-and-watch">
         <bgs>e7e5dc</bgs>
@@ -32,6 +36,8 @@
         <gamelistitems>06160f66</gamelistitems>
         <menuinactive>./_art/imgs/game-and-watch-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/game-and-watch-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/game-and-watch-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/game-and-watch-folder.png</folder>
     </variables>
     <variables ifSubset="color-scheme:vectrex-minestorm">
         <bgs>00011B</bgs>
@@ -43,6 +49,8 @@
         <gamelistitems>68CFF080</gamelistitems>
         <menuinactive>./_art/imgs/vectrex-minestorm-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/vectrex-minestorm-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/vectrex-minestorm-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/vectrex-minestorm-folder.png</folder>
     </variables>
     <variables ifSubset="color-scheme:kirby">
         <bgs>EE9DB8</bgs>
@@ -54,6 +62,8 @@
         <gamelistitems>00042073</gamelistitems>
         <menuinactive>./_art/imgs/kirby-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/kirby-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/kirby-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/kirby-folder.png</folder>
     </variables>
     <variables ifSubset="color-scheme:apple-ii">
         <bgs>181A1E</bgs>
@@ -65,5 +75,33 @@
         <gamelistitems>6CE6B880</gamelistitems>
         <menuinactive>./_art/imgs/apple-ii-menu-textinput.png</menuinactive>
         <menuactive>./_art/imgs/apple-ii-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/apple-ii-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/apple-ii-folder.png</folder>
+    </variables>
+    <variables ifSubset="color-scheme:virtual-boy-ish">
+        <bgs>080000</bgs>
+        <txts>FF7A7A</txts>
+        <fav>FF7A7A</fav>
+        <menubgs>090000</menubgs>
+        <menusel>FF7A7A</menusel>
+        <menutxt>080000</menutxt>
+        <gamelistitems>FF7A7A99</gamelistitems>
+        <menuinactive>./_art/imgs/virtual-boy-ish-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/virtual-boy-ish-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/virtual-boy-ish-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/virtual-boy-ish-folder.png</folder>
+    </variables>
+    <variables ifSubset="color-scheme:gbc-pastel-mix">
+        <bgs>EEDCB8</bgs>
+        <txts>000000</txts>
+        <fav>EEDCB8</fav>
+        <menubgs>FFEBC5</menubgs>
+        <menusel>9CB2E6</menusel>
+        <menutxt>000000</menutxt>
+        <gamelistitems>00000066</gamelistitems>
+        <menuinactive>./_art/imgs/gbc-pastel-mix-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/gbc-pastel-mix-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/gbc-pastel-mix-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/gbc-pastel-mix-folder.png</folder>
     </variables>
  </theme>

@@ -13,6 +13,11 @@ It's also...
 
 ## Changelog
 
+**2025-06-28**
+
+* New color schemes: Virtual Boy-ish (inspired by the Virtual Boy, but easier on the eyes) and GBC Pastel Mix (my favorite GBC colorization palette).
+* New folder and cartridge icons for grid view.
+
 **2025-06-25**
 
 Big update!
@@ -41,6 +46,8 @@ Big update!
 | <img src="https://github.com/user-attachments/assets/12c8d0d4-2b30-4d00-bdae-d4dcbbd50a9b" width="50%" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/ce0af226-422f-4a65-9614-f827d3c060cc" width="50%" title="Vectrex Minestorm Color Scheme"> |
 | **Kirby Color Scheme** | **Apple II Color Scheme** |
 | <img src="https://github.com/user-attachments/assets/9efaa97f-5819-4bcf-8d80-be9456286244" width="50%" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/63add1fd-a95b-4de4-86f1-6f16a794978e" width="50%" title="Apple II Color Scheme"> |
+| **Virtual Boy-ish** | **GBC Pastel Mix** |
+| <img src="https://github.com/user-attachments/assets/f346e21a-099b-4ff6-aa88-6b5ee763c646" width="50%" title="Virtual Boy-ish"> | <img src="https://github.com/user-attachments/assets/2f31f43b-78ef-4161-980a-9bb31ffd84f3" width="50%" title="GBC Pastel Mix"> |
 
 ## How to Install
 
@@ -50,4 +57,6 @@ Just copy the **klon** folder into your ArkOS themes directory (inside the /roms
 
 [Fonts](./_art/fonts/) are licensed under [SIL Open Font License, Version 1.1](https://openfontlicense.org/open-font-license-official-text/).
 
-All the files, code and images not mentioned abore are licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) License.
+<a target="_blank" href="https://icons8.com/icon/83172/folder">Folder</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> and modified by me.
+
+All the files, code and images not mentioned above are licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) License.

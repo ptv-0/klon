@@ -1,0 +1,16 @@
+<theme>
+    <formatVersion>7</formatVersion>
+    <variables>
+        <bgs>080000</bgs>
+        <txts>FF7A7A</txts>
+        <fav>FF7A7A</fav>
+        <menubgs>090000</menubgs>
+        <menusel>FF7A7A</menusel>
+        <menutxt>080000</menutxt>
+        <gamelistitems>FF7A7A99</gamelistitems>
+        <menuinactive>./_art/imgs/virtual-boy-ish-menu-textinput.png</menuinactive>
+        <menuactive>./_art/imgs/virtual-boy-ish-menu-textinput-active.png</menuactive>
+        <cartridge>./_art/imgs/grid/virtual-boy-ish-cartridge.png</cartridge>
+        <folder>./_art/imgs/grid/virtual-boy-ish-folder.png</folder>
+    </variables>
+</theme>
