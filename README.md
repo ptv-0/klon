@@ -15,6 +15,8 @@ It's also...
 
 **2025-07-02**
 
+Another big update — thanks to /u/_Meltz on Reddit for the feedback and suggestions!
+
 * New display settings for detail and video views (UI Settings > Theme Configuration):
   * Video preview options: Choose to show a screenshot, marquee, or thumbnail as your video's snapshot.
   * Gamelist options: Configure your gamelists to display a description, a marquee, or nothing below the main image.
