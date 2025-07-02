@@ -4,7 +4,7 @@
 Hi! This is my first **EmulationStation theme**, and it’s called **Klon** for three reasons:
 
 1. **It started as a clone** (or remix) of two themes I really like: [Base-Text](https://github.com/Jetup13/es-theme-base-text) and [MinuARK](https://github.com/Vidnez/es-theme-MinUArk). But after a while, it kinda took on a life of its own.
-2. **I’m using an R36S clone** (which, of course, I bought without realizing it was a clone). It was the only handheld of its kind I owned, running [ArkOS for K36 by AeolusUX](https://github.com/AeolusUX/ArkOS-K36). Now I also have a BatleXP G350.
+2. **Development commenced on an R36S clone** (which, of course, I bought without realizing it was a clone). It was the only handheld of its kind I owned, running [ArkOS for K36 by AeolusUX](https://github.com/AeolusUX/ArkOS-K36). Now I also have a BatleXP G350.
 3. **It’s a nod to one of my other hobbies, playing guitar** — “Klon” is the name of a [legendary guitar pedal](https://reverb.com/brand/klon) that I’ll probably never be able to afford.
 
 It's also...
@@ -15,9 +15,9 @@ It's also...
 
 **2025-07-02**
 
-* New display settings for detail and video views
- * Video preview options: Choose to show a screenshot, marquee, or thumbnail as your video's snapshot.
- * Gamelist options: Configure your gamelists to display a description, a marquee, or nothing below the main image.
+* New display settings for detail and video views (UI Settings > Theme Configuration):
+  * Video preview options: Choose to show a screenshot, marquee, or thumbnail as your video's snapshot.
+  * Gamelist options: Configure your gamelists to display a description, a marquee, or nothing below the main image.
 * Minor improvements to video previews.
 
 **2025-06-28**
