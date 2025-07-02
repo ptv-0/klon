@@ -13,6 +13,13 @@ It's also...
 
 ## Changelog
 
+**2025-07-02**
+
+* New display settings for detail and video views
+ * Video preview options: Choose to show a screenshot, marquee, or thumbnail as your video's snapshot.
+ * Gamelist options: Configure your gamelists to display a description, a marquee, or nothing below the main image.
+* Minor improvements to video previews.
+
 **2025-06-28**
 
 * New color schemes: Virtual Boy-ish (inspired by the Virtual Boy, but easier on the eyes) and GBC Pastel Mix (my favorite GBC colorization palette)
@@ -41,13 +48,13 @@ Big update!
 ## Screenshots 📸
 | Pong Color Scheme | GB Color Scheme |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/105498ab-9c5e-4e3a-809d-07d9fb28bdfb" width="50%" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/133282c6-fc78-4532-8b69-a8c50d902940" width="50%" title="GB Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/105498ab-9c5e-4e3a-809d-07d9fb28bdfb" width="50%" title="Pong Color Scheme"> | <img src="https://github.com/user-attachments/assets/f6232eb8-a9bd-40f6-9aa1-f962ef8c36ab" width="50%" title="GB Color Scheme"> |
 | **Game and Watch Color Scheme** | **Vectrex Minestorm Color Scheme** |
-| <img src="https://github.com/user-attachments/assets/12c8d0d4-2b30-4d00-bdae-d4dcbbd50a9b" width="50%" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/0f209622-30cd-4270-931b-e15638f32163" width="50%" title="Vectrex Minestorm Color Scheme"> |
+| <img src="https://github.com/user-attachments/assets/12c8d0d4-2b30-4d00-bdae-d4dcbbd50a9b" width="50%" title="Game and Watch Color Scheme"> | <img src="https://github.com/user-attachments/assets/cb5b04e5-89d6-427a-8ba8-fe30eaad68f1" width="50%" title="Vectrex Minestorm Color Scheme"> |
 | **Kirby Color Scheme** | **Apple II Color Scheme** |
 | <img src="https://github.com/user-attachments/assets/9efaa97f-5819-4bcf-8d80-be9456286244" width="50%" title="Kirby Color Scheme"> | <img src="https://github.com/user-attachments/assets/63add1fd-a95b-4de4-86f1-6f16a794978e" width="50%" title="Apple II Color Scheme"> |
 | **Virtual Boy-ish** | **GBC Pastel Mix** |
-| <img src="https://github.com/user-attachments/assets/f346e21a-099b-4ff6-aa88-6b5ee763c646" width="50%" title="Virtual Boy-ish"> | <img src="https://github.com/user-attachments/assets/2f31f43b-78ef-4161-980a-9bb31ffd84f3" width="50%" title="GBC Pastel Mix"> |
+| <img src="https://github.com/user-attachments/assets/46e8deb7-5153-48bc-954d-f1534c4eb5ee" width="50%" title="Virtual Boy-ish"> | <img src="https://github.com/user-attachments/assets/c4362096-8fdf-4735-9ec1-e0cedbfc58da" width="50%" title="GBC Pastel Mix"> |
 
 ## How to Install
 

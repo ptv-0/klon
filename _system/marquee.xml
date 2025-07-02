@@ -1,0 +1,24 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <view name="detailed, video">
+      <image name="md_marquee">
+         <origin>0.5 1</origin>
+         <pos>0.7764078063 0.85125</pos>
+         <maxSize>0.3814462465 0.29</maxSize>
+         <zIndex>4</zIndex>
+      </image>
+      <text name="md_description">
+         <visible>false</visible>
+      </text>
+   </view>
+   <view name="detailed">
+		<image name="md_image">
+			<maxSize>0.3814462465 0.38</maxSize>
+		</image>
+	</view>
+	<view name="video">
+		<video name="md_video">
+			<maxSize>0.3814462465 0.38</maxSize>
+		</video>
+	</view>
+</theme>

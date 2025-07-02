@@ -1,0 +1,8 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <view name="video">
+      <video name="md_video">
+         <snapshotSource>thumbnail</snapshotSource>
+      </video>
+   </view>
+</theme>

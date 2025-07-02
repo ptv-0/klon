@@ -1,0 +1,21 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <view name="detailed, video">
+      <image name="md_marquee">
+         <visible>false</visible>
+      </image>
+      <text name="md_description">
+         <visible>false</visible>
+      </text>
+   </view>
+   <view name="detailed">
+		<image name="md_image">
+			<maxSize>0.3814462465 0.705</maxSize>
+		</image>
+	</view>
+	<view name="video">
+		<video name="md_video">
+			<maxSize>0.3814462465 0.705</maxSize>
+		</video>
+	</view>
+</theme>

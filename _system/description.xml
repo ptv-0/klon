@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="detailed, video">
+		<image name="md_marquee">
+			<visible>false</visible>
+		</image>
+		<text name="md_description">
+			<origin>0 1</origin>
+			<pos>0.585 0.87</pos>
+			<size>0.3814462465 0.295</size>
+			<zIndex>4</zIndex>
+			<fontSize>0.025</fontSize>
+			<color>${txts}</color>
+			<fontPath>./_art/fonts/InterTight-Medium.ttf</fontPath>
+		</text>
+	</view>
+	<view name="detailed">
+		<image name="md_image">
+			<maxSize>0.3814462465 0.38</maxSize>
+		</image>
+	</view>
+	<view name="video">
+		<video name="md_video">
+			<maxSize>0.3814462465 0.38</maxSize>
+		</video>
+	</view>
+</theme>
